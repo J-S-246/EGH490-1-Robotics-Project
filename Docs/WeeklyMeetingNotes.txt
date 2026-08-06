@@ -1,0 +1,16 @@
+Meeting 1 (Week 3)
+Meeting Place: QUT Centre for Robotics (S1102)
+Meeting Time: 12:00-12:30
+  - Met supervisor and other members of the project in person.
+  - Discussed some options/avenues that each group member could take (e.g., Screen face on G1 robot, facial recognition, gesture recognition, etc).
+  - I expressed interest in researching Human Robot Interaction via how people react as the robot not how people react to the robot.
+      - Discussed how humans behaviours might change when completing a task as a robot (done through robotic telepresence with a VR Headset and a G1 robot) compared to completing it as a human, as well as their behaviour immediately after taking off the VR headset.
+      - Discussed how displaying different sensor modes (e.g., IR, Lidar Point-map, RGB) in the VR could affect how humans interact with/behave during the task.
+      - Discussed having a finished product potentially be used for open day demonstrations.
+  - Discussed previous projects and looked at existing robots available to use in the project (G1 and Temi).
+  - Discussed options for documenting progress, GitHub was recommended to be used for code, meeting notes and general updates on the project.
+  - Discussed availability for contacting supervisor, found they are usually available at their office and will try to respond to emails within 1-2 days.
+  - Discussed access to premises and required inductions for equipment.
+  - Discussed recommended hours of work per week, found that hours can range from 10 (average QUT course hours) to 30 (For people especially dedicated to their projects).
+  - Discussed managing time to not have excess work required near deadlines.
+  - Encouraged to read more on the specific topics chosen and research similar projects done in the past.
