@@ -14,3 +14,25 @@ Meeting Time: 12:00-12:30
   - Discussed recommended hours of work per week, found that hours can range from 10 (average QUT course hours) to 30 (For people especially dedicated to their projects).
   - Discussed managing time to not have excess work required near deadlines.
   - Encouraged to read more on the specific topics chosen and research similar projects done in the past.
+
+Meeting 2 (Week 4)
+Meeting Place: QUT Centre for Robotics (S1118)
+Meeting Time: 12:00-12:30
+  - Finalised/confirmed project goals/research areas for all group members.
+  - Discussed potential ways to sense forces with G1 robots, potentially could be integrated sensors (needs to be confirmed) or additional sensors added to fingers (glove with force sensor addition on finger tips, don't need angle sensors).
+  - Discussed potential methods of research (e.g., using the Temi's in the old government building)
+  - Discussed requirements for using the robots (Ethics forms, health and safety, etc.).
+  - Discussed each member's progress in their research.
+
+Meeting 3 (Week 5)
+Meeting Place: QUT Centre for Robotics (S1118)
+Meeting Time: 12:00-12:30
+  - Finalised/refined research questions.
+      - "How does the availability of haptic and audio feedback affect human performance and decision-making during teleoperation of robots with varied visual data."
+  - Organised orientation session for using the G1's (Set for Friday 11:00am).
+  - Supervisor shared project information of past/current students doing similar/relevant topics.
+  - Supervisor shared specific information about G1's hands (Inspire Robotics RH56DFX and Dex3-1, both have integrated pressure sensors).
+  - Tested out the Temi's, and was shown how to access/use them.
+  - Discussed how previous projects completed their human testing.
+      - Discussed the ethics and HSE forms required as well as when they are required.
+      - Discussed spaces where testing and experiments are permitted, and how to get access to them.
