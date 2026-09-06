@@ -36,3 +36,13 @@ Meeting Time: 12:00-12:30
   - Discussed how previous projects completed their human testing.
       - Discussed the ethics and HSE forms required as well as when they are required.
       - Discussed spaces where testing and experiments are permitted, and how to get access to them.
+
+Meeting 3.1 (Week 5)
+Meeting Place: QUT Centre for Robotics (S11)
+Meeting Time: 11:00-11:40
+  - Discussed how to use G1's, we weren't orientated for them since we won't be using them yet and the instructions/rules need to be recent to remember them all.
+  - Watched a demonstration of the G1's in action.
+  - Watched a demonstration of the Temi's in action.
+  - Discussed using a simulator much earlier than using robots.
+  - Discussed both of the hands available (price, fragility, availability).
+  - Discussed potentially using the 7DOF arm robot in S9 instead of the G1 robot.
