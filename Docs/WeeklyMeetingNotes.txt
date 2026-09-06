@@ -1,4 +1,4 @@
-Meeting 1 (Week 3)
+Meeting 1 (Week 3, Thursday)
 Meeting Place: QUT Centre for Robotics (S1102)
 Meeting Time: 12:00-12:30
   - Met supervisor and other members of the project in person.
@@ -15,7 +15,7 @@ Meeting Time: 12:00-12:30
   - Discussed managing time to not have excess work required near deadlines.
   - Encouraged to read more on the specific topics chosen and research similar projects done in the past.
 
-Meeting 2 (Week 4)
+Meeting 2 (Week 4, Thursday)
 Meeting Place: QUT Centre for Robotics (S1118)
 Meeting Time: 12:00-12:30
   - Finalised/confirmed project goals/research areas for all group members.
@@ -24,7 +24,7 @@ Meeting Time: 12:00-12:30
   - Discussed requirements for using the robots (Ethics forms, health and safety, etc.).
   - Discussed each member's progress in their research.
 
-Meeting 3 (Week 5)
+Meeting 3 (Week 5, Thursday)
 Meeting Place: QUT Centre for Robotics (S1118)
 Meeting Time: 12:00-12:30
   - Finalised/refined research questions.
@@ -37,7 +37,7 @@ Meeting Time: 12:00-12:30
       - Discussed the ethics and HSE forms required as well as when they are required.
       - Discussed spaces where testing and experiments are permitted, and how to get access to them.
 
-Meeting 3.1 (Week 5)
+Meeting 3.1 (Week 5, Friday)
 Meeting Place: QUT Centre for Robotics (S11)
 Meeting Time: 11:00-11:40
   - Discussed how to use G1's, we weren't orientated for them since we won't be using them yet and the instructions/rules need to be recent to remember them all.
@@ -46,3 +46,13 @@ Meeting Time: 11:00-11:40
   - Discussed using a simulator much earlier than using robots.
   - Discussed both of the hands available (price, fragility, availability).
   - Discussed potentially using the 7DOF arm robot in S9 instead of the G1 robot.
+
+Meeting 4 (Week 6, Thursday)
+Meeting Place: QUT Centre for Robotics (S1118)
+Meeting Time: 12:00-12:30
+  - Discussed project proposal, including:
+    - Preferred format (risk assessment in table format, executive summary at beginning, etc.)
+    - Page limit
+    - Copyright laws for referencing
+  - Discussed previous experiments on pathing behaviours of rats and humans in the context of ethics and human-animal psychology.
+  - Discussed ethics of experimenting with human participants, what is and is not allowed, what is required before, during and after testing, etc.
